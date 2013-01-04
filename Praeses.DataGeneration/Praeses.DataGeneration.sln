@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praeses.DataGeneration", "Praeses.DataGeneration\Praeses.DataGeneration.csproj", "{238290A1-903A-474E-A9D6-5172B898EFA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praeses.DataGeneration.Tests", "Praeses.DataGeneration.Tests\Praeses.DataGeneration.Tests.csproj", "{6DF14759-29ED-4A25-8C05-B8C4F6EEEC2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{238290A1-903A-474E-A9D6-5172B898EFA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238290A1-903A-474E-A9D6-5172B898EFA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238290A1-903A-474E-A9D6-5172B898EFA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238290A1-903A-474E-A9D6-5172B898EFA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DF14759-29ED-4A25-8C05-B8C4F6EEEC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF14759-29ED-4A25-8C05-B8C4F6EEEC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF14759-29ED-4A25-8C05-B8C4F6EEEC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF14759-29ED-4A25-8C05-B8C4F6EEEC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
